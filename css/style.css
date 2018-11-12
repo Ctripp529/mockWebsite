@@ -47,7 +47,11 @@ p {
   #index-banner .section {
     top: 0;
   }
+  .profileMobile{
+    visibility: hidden;
+  }
 }
+
 
 .icon-block {
   padding: 0 15px;
